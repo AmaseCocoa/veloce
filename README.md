@@ -2,7 +2,7 @@
 easy, fast compiled language.
 
 ## Purpose
-* To create a language with a syntax that is easy to understand and performs as well as Rust
+* Create a language with a syntax that is easy to understand and performs as well or better than C.
 ## Compiler
 * Here's an experimental compiler using Python: [AmaseCocoa/pveloce](https://github.com/AmaseCocoa/pveloce)
 * The Phase 1 compiler will be Go.
