@@ -19,5 +19,7 @@ fn greeting(name: string) {
 greeting("Veloce") // Hello, Veloce!
 ```
 ## Todo
+* Make Compiler
+* stdlib
 * Compatibility with other languages
 * Interpreter mode (executes code without the need to compile, like Node.js, etc., but with lower performance)
